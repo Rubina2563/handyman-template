@@ -1833,13 +1833,13 @@ background-color: #d3f1ff;
 }
 
   .ft-subscribe-form {
-    flex-direction: column;
+
     border-radius: 10px;
   }
 
   .ft-subscribe-form input,
   .ft-subscribe-form button {
-    width: 100%;
+   
     border-radius: 0;
   }
 
